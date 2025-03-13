@@ -40,7 +40,7 @@ Suno虽然功能非常强大，但遗憾的是国内用户无法通过支付宝�
 
 ### 第一步：访问WildCard野卡官网，并点击“立即体验”。
 
-* WildCard野卡官网：https://yeka.ai/i/ANYOFAI
+* WildCard野卡官网：<a href="https://yeka.ai/i/ANYOFAI">https://yeka.ai/i/ANYOFAI</a>
 
 ### 第二步：分别点击“立即开头”和“开通会员”按钮。
 
