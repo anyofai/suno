@@ -36,7 +36,7 @@ Suno AI目前提供了免费版、Plus版和Pro版三种不同的订阅方案。
 
 Suno虽然功能非常强大，但遗憾的是国内用户无法通过支付宝、微信或国内银行卡等方式来支付Suno订阅费用。大陆用户若想订阅Suno，必须拥有一张海外信用卡。然而在实际操作中，获取国外实体信用卡的难度较大，需要提供海外住址、收入证明等条件，对普通用户来说几乎不可行。
 
-而国外的虚拟信用卡则是中国大陆用户的最佳选择，例如WildCard野卡虚拟信用卡。它不仅安全性高、简单易用、收费透明且合理，还能用于订阅Suno、ChatGPT Plus、Claude Pro、Midjourney、Poe、OnlyFans、Netflix、YouTube等各类海外服务。
+而国外的虚拟信用卡则是中国大陆用户的最佳选择，例如<a href="https://yeka.ai/i/ANYOFAI">WildCard野卡虚拟信用卡</a>。它不仅安全性高、简单易用、收费透明且合理，还能用于订阅Suno、ChatGPT Plus、Claude Pro、Midjourney、Poe、OnlyFans、Netflix、YouTube等各类海外服务。
 
 ### 第一步：访问WildCard野卡官网，并点击“立即体验”。
 
