@@ -26,6 +26,8 @@ Suno AI主要有以下几个核心功能：
 
 Suno AI目前提供了免费版、Plus版和Pro版三种不同的订阅方案。这些方案各有特点，下面我详细介绍各版本的价格和功能:
 
+![Suno订阅价格是多少](https://raw.githubusercontent.com/anyofai/suno/refs/heads/main/image/suno-price.jpg)
+
 * Suno免费帐号：每月可生成5首歌曲，功能有限制，不支持商业用途，适合初次体验或偶尔使用的用户。
 * Suno Plus会员：月付10美元（约72元人民币），每月可生成100首歌曲，适合个人创作者。
 * Suno Pro会员：月付25美元（约180元人民币），每月可生成250首歌曲，支持商业用途。
