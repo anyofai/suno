@@ -1,6 +1,6 @@
 # 最好用的AI音乐生成器：Suno AI是什么？如何订阅Suno会员？Suno订阅价格是多少？如何使用Suno AI创作音乐？
 
-<p align="center">最近更新于：2025年3月25日</p>
+<p align="center">最近更新于：2025年5月25日</p>
 
 ![最好用的AI音乐生成器：Suno AI是什么？如何订阅Suno会员？Suno订阅价格是多少？如何使用Suno AI创作音乐？](https://raw.githubusercontent.com/anyofai/suno/refs/heads/main/image/suno.png)
 
