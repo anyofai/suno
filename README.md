@@ -1,6 +1,18 @@
 # 最好用的AI音乐生成器：Suno AI是什么？如何订阅Suno会员？Suno订阅价格是多少？如何使用Suno AI创作音乐？
 
-<p align="center">最近更新于：2025年7月10日</p>
+<p align="center">最近更新于：2025年7月12日</p>
+
+<blockquote>
+
+#### 🚨🚨关于“WildCard野卡跑路”的重要说明🚨🚨
+
+很遗憾地通知大家，2025年7月12日中午，Wildcard野卡的官方群突然发布公告称，由于一些不可抗力因素，Wildcard将立即停止全部业务。
+
+也就是说，目前国内唯一可以用来给Suno充值、而且我一直觉得非常好用的虚拟信用卡，现在也已经永久停止服务了。从今以后，国内普通用户想要订阅充值Suno会变得更加困难。
+
+我们也在积极寻找可以替代“WildCard野卡”的服务。在此之前，大家可以添加我们的**微信（ VX号：ANYOFAI ）**，我们会为你提供一些订阅充值Suno会员的平替方案。
+
+</blockquote>
 
 ![最好用的AI音乐生成器：Suno AI是什么？如何订阅Suno会员？Suno订阅价格是多少？如何使用Suno AI创作音乐？](https://raw.githubusercontent.com/anyofai/suno/refs/heads/main/image/suno.png)
 
@@ -40,11 +52,9 @@ Suno AI目前提供了免费版、Plus版和Pro版三种不同的订阅方案。
 
 Suno虽然功能非常强大，但遗憾的是国内用户无法通过支付宝、微信或国内银行卡等方式来支付Suno订阅费用。大陆用户若想订阅Suno，必须拥有一张海外信用卡。然而在实际操作中，获取国外实体信用卡的难度较大，需要提供海外住址、收入证明等条件，对普通用户来说几乎不可行。
 
-而国外的虚拟信用卡则是中国大陆用户的最佳选择，例如<a href="https://yeka.ai/i/ANYOFAI">WildCard野卡虚拟信用卡</a>。它不仅安全性高、简单易用、收费透明且合理，还能用于订阅Suno、ChatGPT Plus、Claude Pro、Midjourney、Poe、OnlyFans、Netflix、YouTube等各类海外服务。
+而国外的虚拟信用卡则是中国大陆用户的最佳选择，例如WildCard野卡虚拟信用卡。它不仅安全性高、简单易用、收费透明且合理，还能用于订阅Suno、ChatGPT Plus、Claude Pro、Midjourney、Poe、OnlyFans、Netflix、YouTube等各类海外服务。
 
 ### 第一步：访问WildCard野卡官网，并点击“立即体验”。
-
-* WildCard野卡官网：<a href="https://yeka.ai/i/ANYOFAI">https://yeka.ai/i/ANYOFAI</a>
 
 ![国内使用支付宝订阅Suno AI会员第一步：访问WildCard野卡官网，并点击“立即体验”](https://raw.githubusercontent.com/anyofai/suno/refs/heads/main/image/yeka-1.jpg)
 
@@ -124,7 +134,7 @@ Suno AI的应用范围非常广泛，它打破了传统音乐创作的门槛，�
 
 在订阅Suno时遇到支付失败是很多国内用户会碰到的常见问题。而造成支付失败的原因可能有多种，下面我们列出几种常见的解决方法，可以按顺序尝试：
 
-* 检查野卡余额是否充足：确保你的<a href="https://yeka.ai/i/ANYOFAI">WildCard野卡虚拟信用卡</a>余额足够支付Suno的订阅费用。
+* 检查野卡余额是否充足：确保你的WildCard野卡虚拟信用卡余额足够支付Suno的订阅费用。
 * 确认卡片信息填写正确：仔细核对卡号、有效期、CVV码等信息是否正确，一个数字的错误都可能导致支付失败。
 * 使用野卡提供的地址信息：如前所述，在填写账单地址时应使用与野卡关联的海外地址，不要使用中国地址。
 * 尝试更换浏览器或设备：有时候浏览器缓存或Cookie问题会影响支付流程，换一个浏览器或清除缓存后重试。
@@ -195,11 +205,11 @@ Suno还提供了一些高级功能，让你能更精确地控制创作过程。�
 * <a href="https://github.com/anyofai/claude-pro">Claude Pro订阅</a>：详细介绍如何获取国外虚拟信用卡和国外手机号，以及订阅Claude Pro的完整操作流程！
 * <a href="https://github.com/anyofai/midjourney">Midjourney订阅</a>：涵盖Midjourney账号注册和会员订阅的详细操作步骤，附带Midjourney使用教程！
 * <a href="https://github.com/anyofai/poe">Poe订阅</a>：包含国内订阅POE会员的详细操作步骤，以及如何购买POE合租账号的指南！
-* <a href="https://github.com/anyofai/x-twitter">Twitter X订阅</a>：提供订阅Twitter X的详细操作步骤，以及Grok 3的使用指南！
+* <a href="https://github.com/anyofai/x-twitter">Twitter X订阅</a>：提供订阅Twitter X的详细操作步骤，以及Grok 4的使用指南！
 * <a href="https://github.com/anyofai/onlyfans">OnlyFans订阅</a>：包括订阅OnlyFans的详细操作步骤，以及OnlyFans怎样玩和中国人怎么用OnlyFans！
 * <a href="https://github.com/anyofai/sora">Sora订阅</a>：包含订阅Sora的详细操作步骤和Sora的使用方法！
 
-* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：支持ChatGPT-4.5、DeepSeek-R1、Grok-3和Gemini-2 Pro等大模型！每月仅需27元！
+* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：支持ChatGPT-4.5、DeepSeek-R1、Grok-4和Gemini-2 Pro等大模型！每月仅需27元！
 * <a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>：无需科学上网，镜像直连，会话隔离，保障隐私安全，无账号被封风险！每月仅需8元！
 * <a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>：提供国内镜像直连、官方标准会员合租、官方Pro会员合租等三种服务！每月仅需27元！
 * <a href="https://github.com/anyofai/netflix-hezu">Netflix奈飞合租</a>：提供独立子账号、支持设置pin码，可访问Netflix全球影视资源，全程质保！每月仅需20元！
