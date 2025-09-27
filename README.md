@@ -74,7 +74,7 @@ Suno虽然功能非常强大，但遗憾的是国内用户无法通过支付宝�
 
 ![国内使用支付宝订阅Suno AI会员第五步：点击“订阅服务”按钮查看信用卡相关信息](https://raw.githubusercontent.com/anyofai/suno/refs/heads/main/image/yeka-6.jpg)
 
-OK，现在你已经成功获取到了WildCard野卡虚拟信用卡，接下来就可以用它来订阅Suno了。除此之外，你还可以使用WildCard野卡虚拟信用卡来<a href="https://github.com/anyofai/anyofai.github.io">订阅ChatGPT Plus</a>、<a href="https://github.com/anyofai/claude-pro">订阅Claude Pro</a>、<a href="https://github.com/anyofai/midjourney">订阅Midjourney</a>、<a href="https://github.com/anyofai/onlyfans">订阅OnlyFans</a>、<a href="https://github.com/anyofai/poe">订阅POE</a>、<a href="https://github.com/anyofai/x-twitter">订阅X Premium</a>等。你也可以点击查看更多关于WildCard野卡虚拟信用卡的信息：<a href="https://anyofai.github.io/">WildCard野卡怎么样</a>？
+OK，现在你已经成功获取到了WildCard野卡虚拟信用卡，接下来就可以用它来订阅Suno了。除此之外，你还可以使用WildCard野卡虚拟信用卡来<a href="https://github.com/anyofai/anyofai.github.io">订阅ChatGPT Plus</a>、<a href="https://github.com/anyofai/claude-pro">订阅Claude Pro</a>、<a href="https://github.com/anyofai/midjourney">订阅Midjourney</a>、<a href="https://github.com/anyofai/onlyfans">订阅OnlyFans</a>、<a href="https://github.com/anyofai/poe">订阅POE</a>、<a href="https://github.com/anyofai/x-twitter">订阅SuperGrok</a>等。你也可以点击查看更多关于WildCard野卡虚拟信用卡的信息：<a href="https://anyofai.github.io/">WildCard野卡怎么样</a>？
 
 ## 国内订阅Suno AI会员时的常见问题
 
