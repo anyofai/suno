@@ -1,6 +1,6 @@
 # 最好用的AI音乐生成器：Suno AI是什么？如何订阅Suno会员？Suno订阅价格是多少？如何使用Suno AI创作音乐？
 
-<p align="center">最近更新于：2025年10月18日</p>
+<p align="center">最近更新于：2025年11月14日</p>
 
 <blockquote>
 
@@ -40,7 +40,7 @@ Suno AI目前提供了免费版、Plus版和Pro版三种不同的订阅方案。
 
 ![Suno订阅价格是多少](https://raw.githubusercontent.com/anyofai/suno/refs/heads/main/image/suno-price.jpg)
 
-* Suno免费帐号：每天可生成10首歌曲，功能有限制，不支持商业用途，适合初次体验或偶尔使用的用户。
+* Suno免费账号：每天可生成10首歌曲，功能有限制，不支持商业用途，适合初次体验或偶尔使用的用户。
 * Suno Plus会员：月付10美元（约72元人民币），每月可生成500首歌曲，适合个人创作者。
 * Suno Pro会员：月付30美元（约220元人民币），每月可生成2000首歌曲，支持商业用途。
 
@@ -62,9 +62,9 @@ Suno虽然功能非常强大，但遗憾的是国内用户无法通过支付宝�
 
 ![国内使用支付宝订阅Suno AI会员第二步：点击“开通会员”](https://raw.githubusercontent.com/anyofai/suno/refs/heads/main/image/yeka-3.jpg)
 
-### 第三步：使用+86手机号完成帐号注册。
+### 第三步：使用+86手机号完成账号注册。
 
-![国内使用支付宝订阅Suno AI会员第三步：使用+86手机号完成帐号注册](https://raw.githubusercontent.com/anyofai/suno/refs/heads/main/image/yeka-4.jpg)
+![国内使用支付宝订阅Suno AI会员第三步：使用+86手机号完成账号注册](https://raw.githubusercontent.com/anyofai/suno/refs/heads/main/image/yeka-4.jpg)
 
 ### 第四步：选择服务年限，输入邀请码“ANYOFAI”并支付年费。
 
@@ -199,14 +199,14 @@ Suno还提供了一些高级功能，让你能更精确地控制创作过程。�
 
 ## 国内订阅Suno会员相关的其他文章：
 
-* <a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus开通</a>：如何购买/合租/代充ChatGPT Plus会员？国内如何使用GPT-5-Codex？
-* <a href="https://github.com/anyofai/claude-pro">Claude Pro订阅</a>：如何注册Claude账号？如何购买/合租/代充Claude Pro会员？如何使用Claude Code？
-* <a href="https://github.com/anyofai/midjourney">Midjourney订阅</a>：如何购买Midjourney原生独立帐号？如何代充Midjourney会员？
-* <a href="https://github.com/anyofai/poe">Poe订阅</a>：如何购买Poe原生独立账号？支持GPT-5、Claude Opus/Sonnet 4、Grok-4、Gemini-2.5 Pro等大模型！
-* <a href="https://github.com/anyofai/x-twitter">SuperGrok订阅</a>：如何合租SuperGrok会员？如何购买SuperGrok帐号？如何代充SuperGrok会员？
+* <a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus购买</a>：如何购买/合租/代充ChatGPT Plus会员？如何购买Codex拼车服务？
+* <a href="https://github.com/anyofai/claude-pro">Claude Pro订阅</a>：如何注册Claude账号？如何购买/合租/代充Claude Pro会员？含Claude Code国内使用教程
+* <a href="https://github.com/anyofai/midjourney">Midjourney订阅</a>：如何购买Midjourney原生独立账号？如何代充Midjourney会员？
+* <a href="https://github.com/anyofai/poe">Poe订阅</a>：Poe会员支持GPT-5.1、Claude 4.5 Sonnet、Grok-4、Gemini-2.5 Pro等大模型！
+* <a href="https://github.com/anyofai/x-twitter">SuperGrok订阅</a>：如何合租SuperGrok会员？如何购买SuperGrok账号？如何代充SuperGrok会员？
 
-* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：支持ChatGPT-5、DeepSeek-R1、Grok-4和Gemini-2.5 Pro等大模型！每月仅需27元！
-* <a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>：无需科学上网，镜像直连，会话隔离，保障隐私安全，无账号被封风险！每月仅需8元！
+* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：支持ChatGPT-5.1、DeepSeek-R1、Grok-4和Gemini-2.5 Pro等大模型！每月仅需27元！
+* <a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>：无需科学上网，镜像直连，会话隔离，保障隐私安全，无账号被封风险！价格低至14元起！
 * <a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>：提供国内镜像直连、官方标准会员合租、官方Pro会员合租等三种服务！每月仅需27元！
 * <a href="https://github.com/anyofai/netflix-hezu">Netflix奈飞合租</a>：提供独立子账号、支持设置pin码，可访问Netflix全球影视资源，全程质保，价格低至8元起！
 * <a href="https://github.com/anyofai/youtube-hezu">YouTube合租</a>：安全有保障，可享受YouTube Premium会员所有权益！每月仅需15元！
