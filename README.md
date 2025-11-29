@@ -78,11 +78,11 @@ Suno还集成了强大的AI人声系统，能够模拟不同风格的演唱方�
 
 在众多第三方平台中，我们同样推荐通过“<a href="https://accboyytbanyofai.acceboy.com/">**账号星球**</a>”来购买Suno独享账号。账号星球提供的Suno独享账号均为原生账号，购买后你即可独立登录Suno官网，使用所有Pro或Premier版本的功能，后续也可以自行管理账号资料、使用额度以及个人的创作内容。
 
-Suno Pro账号（99元/月）：该版本支持使用最新版v5模型，每月提供2,500credits，具备可商用权限和新功能优先体验等官方Pro权益，非常适合内容创作者、短视频从业者、电商卖家、音乐制作人等需要持续创作的用户。
+**Suno Pro账号（99元/月）**：该版本支持使用最新版v5模型，每月提供2,500credits，具备可商用权限和新功能优先体验等官方Pro权益，非常适合内容创作者、短视频从业者、电商卖家、音乐制作人等需要持续创作的用户。
 
 ![购买Suno Pro账号](https://raw.githubusercontent.com/anyofai/suno/refs/heads/main/image/%E8%B4%AD%E4%B9%B0Suno%E8%B4%A6%E5%8F%B7-4.png)
 
-Suno Premier账号（319元/月）：该版本每月提供10,000credits额度，适合工作室团队、音乐制作机构、批量创作者等需要大量生成音乐素材的用户。因此该版本在稳定性、权限和生成量方面都达到最高等级，是专业用户的首选。
+**Suno Premier账号（319元/月）**：该版本每月提供10,000credits额度，适合工作室团队、音乐制作机构、批量创作者等需要大量生成音乐素材的用户。因此该版本在稳定性、权限和生成量方面都达到最高等级，是专业用户的首选。
 
 ![购买Suno Premier账号](https://raw.githubusercontent.com/anyofai/suno/refs/heads/main/image/%E8%B4%AD%E4%B9%B0Suno%E8%B4%A6%E5%8F%B7-5.png)
 
