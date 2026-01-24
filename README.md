@@ -1,6 +1,6 @@
 # 2026年最新Suno AI充值订阅教程：如何合租Suno共享账号？如何购买Suno(独享)账号？如何为Suno代充值？
 
-<p align="center">最近更新于：2026年1月19日</p>
+<p align="center">最近更新于：2026年1月24日</p>
 
 ![2026年最新Suno AI充值订阅教程：如何合租Suno共享账号？如何购买Suno(独享)账号？如何为Suno代充值？](https://raw.githubusercontent.com/anyofai/suno/refs/heads/main/image/suno.png)
 
